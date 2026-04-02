@@ -47,7 +47,7 @@ class MessageService {
     _addToConversationIndex(msg);
     _addToUnreadIndex(msg);
     return msg.toJSON();
-  }u
+  }
 
   async findById(id) {
     const msg = store.get(id);
