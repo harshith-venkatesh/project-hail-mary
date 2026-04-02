@@ -1,1 +1,1 @@
-# project-hail-mary
+# Discussion around Prompt skilling
